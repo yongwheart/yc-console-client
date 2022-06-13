@@ -1,0 +1,20 @@
+{
+  "library": "jersey2",
+  "artifactId": "yc-console-api-client",
+  "artifactDescription": "Open Api client",
+  "artifactVersion": "1.0.0",
+  "groupId": "com.dtsre",
+  "licenseName": "3-Clause BSD License",
+  "licenseUrl": "https://opensource.org/licenses/BSD-3-Clause",
+  "hideGenerationTimestamp": true,
+  "apiPackage": "com.dtsre.api.v1.client.api",
+  "invokerPackage": "com.dtsre.api.v1.client",
+  "modelPackage": "com.dtsre.api.v1.client.model",
+  "files": {
+    "UnparsedObject.mustache": {
+      "folder": "src/main/java/com/dtsre/api/v1/client/model",
+      "templateType": "SupportingFiles",
+      "destinationFilename": "UnparsedObject.java"
+    }
+  }
+}
